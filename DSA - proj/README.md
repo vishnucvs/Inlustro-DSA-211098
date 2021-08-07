@@ -36,3 +36,7 @@ Yes,we can improve complexity.
 
 Time Complexity: O(max(m,n))
 Space Complexity: O(1)
+
+a)How will you solve it without recursion?
+ 
+ we can use iterative method to find size of binary tree
